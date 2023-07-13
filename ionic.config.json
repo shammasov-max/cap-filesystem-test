@@ -1,0 +1,7 @@
+{
+  "name": "FS-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
