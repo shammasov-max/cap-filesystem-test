@@ -8,7 +8,7 @@ const Page: React.FC = () => {
 
   const { name } = useParams<{ name: string; }>();
 const onGo = () => {
-  writeSecretFile()
+ // writeSecretFile()
 }
   return (
     <IonPage>
