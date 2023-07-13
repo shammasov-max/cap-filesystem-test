@@ -2,7 +2,7 @@ import { IonButton, IonButtons, IonContent, IonHeader, IonMenuButton, IonPage, I
 import { useParams } from 'react-router';
 import ExploreContainer from '../components/ExploreContainer';
 import './Page.css';
-import { writeSecretFile } from './test';
+//import { writeSecretFile } from './test';
 
 const Page: React.FC = () => {
 
